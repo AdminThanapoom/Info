@@ -26,7 +26,7 @@ img.logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.7);
+    box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.7);
 }
 
 h1.name {
@@ -86,7 +86,7 @@ h5 {
 }
 
 body.color {
-    background-image: url(https://scontent.fbkk2-8.fna.fbcdn.net/v/t1.0-9/107950595_722173621931201_4471641995343568863_n.jpg?_nc_cat=103&_nc_sid=13bebb&_nc_ohc=9dC1mYhMTncAX-n6Ntf&_nc_ht=scontent.fbkk2-8.fna&oh=e55bb5bce9e820dcc08358b0019f5371&oe=5F2FF64F);
+    background-image: url(https://scontent.fbkk2-8.fna.fbcdn.net/v/t1.0-9/117340124_341652667229117_4518503705805702407_n.jpg?_nc_cat=100&_nc_sid=e007fa&_nc_eui2=AeE9wP_nS4js2XQ0Wuz6aIEf-F7fFFkCGzr4Xt8UWQIbOh7ZIfW8tWb8FVvd-1xIMzX3y98yedvb-qExQpZvipJ1&_nc_ohc=PUYWxI0uqVAAX94SnW8&_nc_ht=scontent.fbkk2-8.fna&oh=8a2f3f27003097873fffd027b7e89571&oe=5F565348);
     background-size: cover;
     background-attachment: inherit;
 }
